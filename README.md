@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @jaybjackie
-- 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Python and basic C++
+- 👀 I’m interested in Cybersecurity and Machine Learning
+- 🌱 I’m currently learning in Python and basic C++
 - 💞️ I’m looking to collaborate on Security or related
 - 📫 You can contact me via kodchakan.forwork@gmail.com
 
