@@ -1,7 +1,12 @@
-- 👋 Hi, I’m @jaybjackie
-- 👀 I’m interested in Cybersecurity and Machine Learning
-- 🌱 I’m currently learning in Python and basic C++
-- 💞️ I’m looking to collaborate on Security or related
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif">
+</div>
+
+### :potted_plant: About Me :
+- 👋 Hi, I’m @jaybjackie, Software and Knowledge Engineering Student in Thailand.
+- 👀 I’m interested backend and frontend web development.
+- 🌱 I’m currently learning in Python and C++.
+- 💞️ I’m looking to collaborate on Website development.
 - 📫 You can contact me via kodchakan.forwork@gmail.com
 
 <!---
