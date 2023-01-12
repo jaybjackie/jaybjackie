@@ -5,7 +5,7 @@
 ### :potted_plant: About Me :
 - 👋 Hi, I’m @jaybjackie, Software and Knowledge Engineering Student in Thailand.
 - 👀 I’m interested backend and frontend web development.
-- 🌱 I’m currently learning in Python and C++.
+- 🌱 I’m currently learning in Python, JavaScript,and Java.
 - 💞️ I’m looking to collaborate on Website development.
 - 📫 You can contact me via kodchakan.forwork@gmail.com
 
