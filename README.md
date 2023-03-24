@@ -5,7 +5,7 @@
 ### :potted_plant: About Me :
 - 👋 Hi, I’m @jaybjackie, Software and Knowledge Engineering Student in Thailand.
 - 👀 I’m interested Mobile Application developement.
-- 🌱 I’m currently learning in Python, Flutter, Kotlin and Java.
+- 🌱 I’m currently learning in Python, Switf, SwiftUI and Java.
 - 📫 You can contact me via kodchakan.forwork@gmail.com
 
 <!---
