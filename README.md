@@ -7,7 +7,7 @@
 - 👀 I’m interested Mobile Application developement.
 - 🌱 I’m currently learning in Python, Switf and SwiftUI
 - 📫 You can contact me via kodchakan.forwork@gmail.com
-- 🧐 https://links-in-bio-jaybjackie.web.app
+- 🧐 Get to know me more ➡ https://links-in-bio-jaybjackie.web.app
 
 <!---
 jaybjackie/jaybjackie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
