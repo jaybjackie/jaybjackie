@@ -1,13 +1,10 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/3oKIPtjElfqwMOTbH2/giphy.gif">
-</div>
-
 ### :potted_plant: About Me :
-- 👋 Hi, I’m @jaybjackie, Software and Knowledge Engineering Student in Thailand.
-- 👀 I’m interested Mobile Application developement.
-- 🌱 I’m currently learning in Python, Switf and SwiftUI
+- 👋 Hi, I’m [@jaybjackie](https://github.com/jaybjackie).
+- 🔮 I’m interested iOS develelopment.
+- 🌱 I’m experienced in **Switf and SwiftUI**
+- 👀 Have a look at my **portfolio** ➡ https://github.com/jaybjackie/iOS-Portfolio
 - 📫 You can contact me via kodchakan.forwork@gmail.com
-- 🧐 Get to know me more ➡ https://links-in-bio-jaybjackie.web.app
+- 🧐 Connect me in LinkedIn ➡ https://www.linkedin.com/in/kodchakan-prajob-941433218/
 
 <!---
 jaybjackie/jaybjackie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
